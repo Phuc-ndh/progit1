@@ -1,1 +1,1 @@
-origin/master remote branch
+master is a local ngắn hơn
